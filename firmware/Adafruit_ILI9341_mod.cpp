@@ -14,7 +14,7 @@ Written by Limor Fried/Ladyada for Adafruit Industries.
 MIT license, all text above must be included in any redistribution
 ****************************************************/
 
-#include "Adafruit_ILI9341.h"
+#include "Adafruit_ILI9341_mod.h"
 #include <limits.h>
 
 #include "application.h"
